@@ -1,37 +1,76 @@
-## Welcome to GitHub Pages
+# Peculiar Ediomo-Abasi
+![](https://res.cloudinary.com/pediomo/image/upload/v1603527586/Peculiar_HD1_wgq7zj.png)
 
-You can use the [editor on GitHub](https://github.com/Pediomo/pediomo.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+> Peculiar is a life-long learner building a career in product management. And she loves to write articles about PM too. Kindly find links below: 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* [Entry Level Resources for Becoming a Product Manager: 11,250 Views](https://hackernoon.com/entry-level-resources-for-becoming-a-product-manager-p06j32fl)
+* [Want to Break into Product Management?—Here's How I Started](https://hackernoon.com/want-to-break-into-product-management-heres-how-i-started-xu393u3i)
+* [A Guide to Startup Funding Series Stages for Product Managers](https://hackernoon.com/a-guide-to-startup-funding-series-stages-for-product-managers-dg10i3ubq)
+* [Have you Considered Becoming a Product Manager](https://hackernoon.com/have-you-considered-becoming-a-product-manager-s9bk3zy5)
+* [Peculiar Talks About Life as a Product Manager Admist Covid-19](https://hackernoon.com/noonie-nominee-peculiar-ediomo-abasi-talks-about-life-as-a-product-manager-amidst-covid-19-nm6v3us4)
 
-### Markdown
+As a community driven person, Peculiar looks out for ways to make product management resources readily accessible to beginners and product enthusiasts. Following this drive, she has recently been awarded for the 2020 Hacker Noon’s annual awards: 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* Winner [Hacker Noon Contributor of the Year - **PRODUCT DEVELOPMENT**
+](https://noonies.tech/award/hacker-noon-contributor-of-the-year-product-development)
 
-```markdown
-Syntax highlighted code block
+* First runner up: [Hacker Noon Contributor of the Year - **PRODUCT MANAGEMENT**](https://noonies.tech/award/hacker-noon-contributor-of-the-year-product-management)
 
-# Header 1
-## Header 2
-### Header 3
+Connect with Peculiar on [LinkedIn](https://www.linkedin.com/in/pediomo/) and [Facebook](https://facebook.com/pediomo)
 
-- Bulleted
-- List
+## Articles on the web about Peculiar, and around her arears of interest:
 
-1. Numbered
-2. List
+* [Winners of the first Blockchain Hackathon in Lagos](https://goodcrowd.info/winners-announced-at-first-hackquantum-in-lagos-nigeria-as-part-of-the-decade-of-women-campaign-to-harness-frontier-technologies-to-transform-womens-lives-worldwide/)
+* [Facebook celebrates 6 Nigerian Female Achievers, others following IWD 2020](https://techbuild.africa/facebook-celebrates-6-nigerian-female-achievers-others-following-iwd-2020/)
+* [Facebook hosts its first ‘Facebook iD8 Nairobi’ conference aimed at celebrating and growing the tech ecosystem across Africa](https://www.africanews.com/2019/11/22/facebook-hosts-its-first-facebook-id8-nairobi-conference-aimed-at-celebrating-and-growing-the-tech-ecosystem-across-africa//)
+* [Peculiar's tech story by Facebook for Developers](https://developers.facebook.com/success-stories/peculiar-ediomo-abasi/)
 
-**Bold** and _Italic_ and `Code` text
+## Projects
 
-[Link](url) and ![Image](src)
-```
+* Co-founder of [Eventplog.com: An event management platform](https://www.eventplog.com/). Proof: [Eventplog Limited](https://ng-check.com/eventplog-limited/5470527.html)
+* [Devpost Software Portfolio](https://devpost.com/Pediomo/challenges)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Speaking Engagements
 
-### Jekyll Themes
+Topic: 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Pediomo/pediomo.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![](https://res.cloudinary.com/pediomo/image/upload/v1603533199/Pec_HD_2_uz5ugw.jpg)
 
-### Support or Contact
+Topic: 
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+![](https://res.cloudinary.com/pediomo/image/upload/v1603533312/Pec_HD_3_ayj4nd.png)
+
+
+Topic:
+
+
+
+
+![](https://res.cloudinary.com/pediomo/image/upload/v1603533377/Pec_HD_5_hcxfev.png)
+
+
+Topic:
+
+
+ 
+![](https://res.cloudinary.com/pediomo/image/upload/v1603533440/Pec_HD_6_voyicw.png)
+
+
+Topic:
+
+
+
+![](https://res.cloudinary.com/pediomo/image/upload/v1603533512/Pec_HD_7_c64lwf.png)
+
+
+Topic:
+
+
+
+![](https://res.cloudinary.com/pediomo/image/upload/v1603533589/Pec_HD_8_zw6vsn.jpg)
+
+
+
+
