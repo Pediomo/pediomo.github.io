@@ -32,44 +32,11 @@ Connect with Peculiar on [LinkedIn](https://www.linkedin.com/in/pediomo/) and [F
 
 ## Speaking Engagements
 
-Topic: 
-
-![](https://res.cloudinary.com/pediomo/image/upload/v1603533199/Pec_HD_2_uz5ugw.jpg)
-
-Topic: 
+Peculiar is open to speaking at events. Most recent online events were:
+* [Productivity Hack for Software Developers](https://www.facebook.com/events/330176238028140/)
+* [ Personal Branding for Software Developers](https://www.facebook.com/events/597771241125578)
 
 
-
-![](https://res.cloudinary.com/pediomo/image/upload/v1603533312/Pec_HD_3_ayj4nd.png)
-
-
-Topic:
-
-
-
-
-![](https://res.cloudinary.com/pediomo/image/upload/v1603533377/Pec_HD_5_hcxfev.png)
-
-
-Topic:
-
-
- 
-![](https://res.cloudinary.com/pediomo/image/upload/v1603533440/Pec_HD_6_voyicw.png)
-
-
-Topic:
-
-
-
-![](https://res.cloudinary.com/pediomo/image/upload/v1603533512/Pec_HD_7_c64lwf.png)
-
-
-Topic:
-
-
-
-![](https://res.cloudinary.com/pediomo/image/upload/v1603533589/Pec_HD_8_zw6vsn.jpg)
 
 
 
