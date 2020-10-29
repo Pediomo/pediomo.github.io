@@ -1,12 +1,12 @@
 # Peculiar Ediomo-Abasi
-![](https://res.cloudinary.com/pediomo/image/upload/v1603527586/Peculiar_HD1_wgq7zj.png)
+![](https://res.cloudinary.com/pediomo/image/upload/v1603993792/Product_Management_resources_1_utafqr.png)
 
 > Peculiar is a life-long learner building a career in product management. And she loves to write articles about PM too. Kindly find links below: 
 
 * [Entry Level Resources for Becoming a Product Manager: 11,250 Views](https://hackernoon.com/entry-level-resources-for-becoming-a-product-manager-p06j32fl)
 * [Want to Break into Product Management?—Here's How I Started](https://hackernoon.com/want-to-break-into-product-management-heres-how-i-started-xu393u3i)
 * [A Guide to Startup Funding Series Stages for Product Managers](https://hackernoon.com/a-guide-to-startup-funding-series-stages-for-product-managers-dg10i3ubq)
-* [Have you Considered Becoming a Product Manager](https://hackernoon.com/have-you-considered-becoming-a-product-manager-s9bk3zy5)
+* [Have you Considered Becoming a Product Manager?](https://hackernoon.com/have-you-considered-becoming-a-product-manager-s9bk3zy5)
 * [Peculiar Talks About Life as a Product Manager Admist Covid-19](https://hackernoon.com/noonie-nominee-peculiar-ediomo-abasi-talks-about-life-as-a-product-manager-amidst-covid-19-nm6v3us4)
 
 As a community driven person, Peculiar looks out for ways to make product management resources readily accessible to beginners and product enthusiasts. Following this drive, she has recently been awarded for the 2020 Hacker Noon’s annual awards: 
