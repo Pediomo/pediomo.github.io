@@ -1,5 +1,5 @@
 # Peculiar Ediomo-Abasi
-![](https://res.cloudinary.com/pediomo/image/upload/v1603993792/Product_Management_resources_1_utafqr.png)
+![](https://res.cloudinary.com/pediomo/image/upload/v1603527586/Peculiar_HD1_wgq7zj.png)
 
 > Peculiar is a life-long learner building a career in product management. And she loves to write articles about PM too. Kindly find links below: 
 
