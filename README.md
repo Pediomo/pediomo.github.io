@@ -16,7 +16,7 @@ As a community driven person, Peculiar looks out for ways to make product manage
 
 * First runner up: [Hacker Noon Contributor of the Year - **PRODUCT MANAGEMENT**](https://noonies.tech/award/hacker-noon-contributor-of-the-year-product-management)
 
-Connect with Peculiar on [LinkedIn](https://www.linkedin.com/in/pediomo/) and [Facebook](https://facebook.com/pediomo). Like to check her Interaction Design Foundation profile too? [Here you go!](www.interaction-design.org/peculiar-ediomo-abasi)
+Connect with Peculiar on [LinkedIn](https://www.linkedin.com/in/pediomo/) and [Facebook](https://facebook.com/pediomo). Like to check her Interaction Design Foundation profile too? [Here you go!](https://www.interaction-design.org/peculiar-ediomo-abasi)
 
 ## Articles on the web about Peculiar, and around her arears of interest:
 
