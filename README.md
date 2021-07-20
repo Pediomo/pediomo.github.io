@@ -1,7 +1,7 @@
 # Peculiar Ediomo-Abasi
 ![](https://res.cloudinary.com/pediomo/image/upload/v1603527586/Peculiar_HD1_wgq7zj.png)
 
-> Peculiar is a life-long learner building a career in product management. And she loves to write articles about PM too. Kindly find links below: 
+> Peculiar is a life-long learner building a career in product. She loves to write about PM too. Kindly find links below: 
 
 * [Entry Level Resources for Becoming a Product Manager: 11,250 Views](https://hackernoon.com/entry-level-resources-for-becoming-a-product-manager-p06j32fl)
 * [Want to Break into Product Management?—Here's How I Started](https://hackernoon.com/want-to-break-into-product-management-heres-how-i-started-xu393u3i)
