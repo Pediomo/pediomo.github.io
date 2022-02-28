@@ -27,7 +27,7 @@ Connect with Peculiar on [LinkedIn](https://www.linkedin.com/in/pediomo/) and [F
 
 ## Projects
 
-* Co-founder of [Eventplog.com: An event management platform](https://www.eventplog.com/). Proof: [Eventplog Limited](https://ng-check.com/eventplog-limited/5470527.html)
+* Ex Co-founder of [Eventplog.com: An event management platform](https://www.eventplog.com/). More info: [Eventplog Limited](https://ng-check.com/eventplog-limited/5470527.html)
 * [Devpost Software Portfolio](https://devpost.com/Pediomo/challenges)
 
 ## Speaking Engagements
